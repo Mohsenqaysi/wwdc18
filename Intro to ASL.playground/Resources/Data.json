@@ -1,0 +1,93 @@
+[
+  {
+    "key": "excuse_me",
+    "word": "Excuse me",
+    "dialect": "ASL",
+    "note": "Said politely in various contexts, for example when attempting to get someone's attention",
+    "emoji": "✋"
+  },
+  {
+    "key": "yes",
+    "word": "Yes",
+    "dialect": "ASL",
+    "note": "Used to give a positive answer or reply to a question, request, or offer; used to give an affirmative response.",
+    "emoji": "✅"
+  },
+  {
+    "key": "no",
+    "word": "No",
+    "dialect": "ASL",
+    "note": "Used to give a negative response; the opposite of yes.",
+    "emoji": "🚫"
+  },
+  {
+    "key": "friend",
+    "word": "Friend",
+    "dialect": "ASL",
+    "note": "A person attached to another by feelings of affection or personal bond.",
+    "emoji": "👫"
+  },
+  {
+    "key": "slow",
+    "word": "Slow",
+    "dialect": "ASL",
+    "note": "Not fast; moving, flowing, or proceeding without speed or at less than usual speed.",
+    "emoji": "🐌"
+  },
+  {
+    "key": "paper",
+    "word": "Paper",
+    "dialect": "ASL",
+    "note": "A material made from fibers and in the form of thin sheets or a sheet or piece of such material.",
+    "emoji": "📄"
+  },
+  {
+    "key": "school",
+    "word": "School",
+    "dialect": "Kids' ASL",
+    "note": "An institution for educating children; any institution at which instruction is given in a particular discipline.",
+    "emoji": "🏫"
+  },
+  {
+    "key": "time",
+    "word": "Time",
+    "dialect": "Kids' ASL",
+    "note": "The thing that is measured as seconds, minutes, hours, days, etc.",
+    "emoji": "🕓"
+  },
+  {
+    "key": "game",
+    "word": "Game",
+    "dialect": "Kids' ASL",
+    "note": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+    "emoji": "🎲"
+  },
+  {
+    "key": "help",
+    "word": "Help",
+    "dialect": "Kids' ASL",
+    "note": "Making it easier or possible for someone to do something by offering them one's services or resources.",
+    "emoji": "🤲"
+  },
+  {
+    "key": "ball",
+    "word": "Ball",
+    "dialect": "Kids' ASL",
+    "note": "A solid or hollow spherical object that is kicked, thrown, or hit in a game.",
+    "emoji": "🏀"
+  },
+  {
+    "key": "rainbow",
+    "word": "Rainbow",
+    "dialect": "Kids' ASL",
+    "note": "An arc of colors that appears in the sky and is caused by the sun shining through rain, mist, or spray.",
+    "emoji": "🌈"
+  },
+  {
+    "key": "walk",
+    "word": "Walk",
+    "dialect": "Kids' ASL",
+    "note": "When you move forward by putting one foot in front of the other in a regular way.",
+    "emoji": "🚶‍♀️"
+  }
+]

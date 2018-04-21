@@ -1,0 +1,14 @@
+{
+  "name": "dae2xcode",
+  "version": "1.0.0",
+  "description": "Simple script to simplify DAE animations to make compatible with Xcode",
+  "main": "index.js",
+  "bin": {
+    "dae2xcode": "index.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "hroland",
+  "license": "MIT"
+}
